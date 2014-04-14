@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  KaoLaPlatform
+
+  Created by Doyang on 14-4-8.
+  Copyright (c) 2014年 Onyx International Inc. All rights reserved.
+*/
+"kStrBack"="返回";
+"kStrUserCenter"="个人中心";
+"kStrSetting"="设置";
+"kStrFavor"="收藏";
+"kStrExchangeGift"="兑换奖品";
+"kStrAddressInfo"="收货信息";
+"kStrExpressInfo"="物流信息";
+"kStrBigGiftBag"="大礼包";
+"kStrConsigneeName"="收货人";
+"kStrDeliveryAddress"="收货地址";
